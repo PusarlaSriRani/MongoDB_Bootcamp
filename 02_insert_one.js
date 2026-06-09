@@ -13,7 +13,7 @@ db.employee.insertOne({
 })
 
 db.employee.insertOne({
-    name: "Vijay",
+    name: "Rahul",
     age: 23,
     department: "ECE",
     salary: 40000
